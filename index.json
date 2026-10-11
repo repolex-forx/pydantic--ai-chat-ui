@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "ai-chat-ui",
+  "versions": [
+    {
+      "commit": "8014d57f8fccda48ff643126c6a10f91812f61a6",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:43:32.780503+00:00"
+    }
+  ]
+}

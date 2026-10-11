@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pydantic/ai-chat-ui/commit/8014d57f8fccda48ff643126c6a10f91812f61a6",
       "git:hexsha": "8014d57f8fccda48ff643126c6a10f91812f61a6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T21:43:32.779987+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/ai-chat-ui/commit/a7ce0cd1096bbc4addc616fc53f3ce7fd03e1a8a",
